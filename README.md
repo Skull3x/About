@@ -1,5 +1,3 @@
-# About
-
 My name is Josh, I'm 15 and I have an interest in PHP
 
 For now you can contact me here
