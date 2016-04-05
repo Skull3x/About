@@ -7,6 +7,3 @@ Email -
 
 Kik -
 # The_Skullex
-
-Skype -
-# joshua69951
